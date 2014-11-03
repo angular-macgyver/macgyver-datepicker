@@ -4,7 +4,7 @@
   "description": "jQuery UI datepicker on AngularJS",
   "main": "macgyver-datepicker.js",
   "scripts": {
-    "test": "grunt karma"
+    "test": "grunt test:ci"
   },
   "repository": {
     "type": "git",

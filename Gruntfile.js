@@ -9,5 +9,5 @@ module.exports = function (grunt) {
 
   grunt.loadTasks('lib/grunt');
 
-
+  grunt.registerTask('test:ci', ['karma:travis'])
 };
