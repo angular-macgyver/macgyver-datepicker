@@ -1,0 +1,29 @@
+{
+  "name": "macgyver-datepicker",
+  "version": "0.5.0",
+  "description": "jQuery UI datepicker on AngularJS",
+  "main": "macgyver-datepicker.js",
+  "scripts": {
+    "test": "grunt karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular-macgyver/macgyver-datepicker.git"
+  },
+  "author": "Adrian Lee <adrianlee44@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular-macgyver/macgyver-datepicker/issues"
+  },
+  "homepage": "https://github.com/angular-macgyver/macgyver-datepicker",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "0.0.16",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-karma": "^0.9.0",
+    "karma": "^0.12.24",
+    "karma-jasmine": "^0.2.3",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "matchdep": "^0.3.0"
+  }
+}
