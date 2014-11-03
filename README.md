@@ -1,7 +1,13 @@
 MacGyver Datepicker
 ===
 
-## 3rd aprty libraries dependencies
+![Build Status](http://img.shields.io/travis/angular-macgyver/macgyver-datepicker.svg?style=flat)
+![Tag](http://img.shields.io/github/tag/angular-macgyver/macgyver-datepicker.svg?style=flat)
+![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)
+
+jQuery UI datepicker on AngularJS
+
+## 3rd party libraries dependencies
 - AngularJS (1.2.x)
 - jQuery
 - jQuery UI
