@@ -34,7 +34,7 @@ Clearing model by setting it to null or '' will clear the input field
 @param {Boolean}    ng-disabled                         Enable or disable datepicker
  */
 
-(function(window, document, undefined) {'use strict';
+(function() {'use strict';
 angular.module("Mac.Datepicker", []).directive("macDatepicker", [
   "$parse", function($parse) {
     var defaults, extendAttributes;
@@ -146,4 +146,4 @@ angular.module("Mac.Datepicker", []).directive("macDatepicker", [
     };
   }
 ]);
-})(window, document);
+})();
