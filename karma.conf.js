@@ -4,8 +4,8 @@ module.exports = function(config) {
     frameworks: ["jasmine"],
     files: [
       "bower_components/jquery/jquery.js",
-      "bower_components/jquery.ui/ui/jquery.ui.core.js",
-      "bower_components/jquery.ui/ui/jquery.ui.datepicker.js",
+      "bower_components/jquery-ui/ui/jquery.ui.core.js",
+      "bower_components/jquery-ui/ui/jquery.ui.datepicker.js",
       "bower_components/angular/angular.js",
       "./macgyver-datepicker.js",
       "bower_components/angular-mocks/angular-mocks.js",
