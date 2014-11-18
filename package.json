@@ -1,6 +1,6 @@
 {
   "name": "macgyver-datepicker",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "jQuery UI datepicker on AngularJS",
   "main": "macgyver-datepicker.js",
   "scripts": {
