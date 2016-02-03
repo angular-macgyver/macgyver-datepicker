@@ -1,3 +1,8 @@
+# v0.5.2 (2016/2/3)
+## Optimizations
+- **macgyver-datepicker:** Update 3rd dependencies versions to minimum requirement
+
+
 # v0.5.1 (2014/11/17)
 ## Fixes
 - **macDatepicker:** Switched to use jquery ui shim bower repo
