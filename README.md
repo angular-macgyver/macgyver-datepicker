@@ -8,9 +8,9 @@ MacGyver Datepicker
 jQuery UI datepicker on AngularJS
 
 ## 3rd party libraries dependencies
-- AngularJS (1.2.x)
-- jQuery
-- jQuery UI
+- AngularJS (>=1.2.x)
+- jQuery (>=1.11.0)
+- jQuery UI (>=1.10.0)
 
 ## Using Macgyver Datepicker
 You can install via [Bower](http://www.bower.io)
