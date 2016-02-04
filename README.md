@@ -2,7 +2,6 @@ MacGyver Datepicker
 ===
 
 [![Build Status](http://img.shields.io/travis/angular-macgyver/macgyver-datepicker.svg?style=flat)](https://travis-ci.org/angular-macgyver/macgyver-datepicker)
-[![Tag](http://img.shields.io/github/tag/angular-macgyver/macgyver-datepicker.svg?style=flat)](https://github.com/angular-macgyver/macgyver-datepicker/releases)
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/angular-macgyver/macgyver-datepicker/blob/master/LICENSE)
 
 jQuery UI datepicker on AngularJS
